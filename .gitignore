@@ -1,0 +1,21 @@
+# ide
+.vs/
+.vscode/
+.idea/
+.eclipse/
+
+# compiler
+out/
+bin/
+export/
+x64/
+x86/
+build/
+windows/
+mac/
+macos/
+linux/
+debian/
+
+# lime
+hxformat.json
